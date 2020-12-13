@@ -12,6 +12,8 @@
 	<modules>
 		<module>eurekaserverteste</module>
 		<module>zuulserver</module>
+        <module>customers</module>
+        <module>products</module>
 	</modules>
 
 </project>
