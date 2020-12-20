@@ -1,7 +1,7 @@
 # springCloud
 
 
-Modelo Criando Proxy de apis com Spring Cloud Zuul integrado com Eureka. 
+Tem por finalidade criar um Modelo Criando Proxy de apis com Spring Cloud Zuul integrado com Eureka e Serviços Rest Customers e Products se registrando no Service discovery (eureka).
 
 
 <ol>
