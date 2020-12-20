@@ -41,7 +41,6 @@ class CustomersApplicationTests {
 
     @Test
     public void requisicao(){
-
         String baseUrl = "http://localhost:"+port+"/customers/";
         List<String>  listaCustomers= restTemplate.getForEntity(baseUrl,List.class).getBody();
         System.out.println("Volta Controller : ") ;

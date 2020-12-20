@@ -1,0 +1,14 @@
+.idea/
+eurekaserverteste/target/
+zuulserver/target/
+products/.mvn/
+zuulserver/zuulserver.iml
+springcloud.iml
+products/mvnw.cmd
+products/mvnw
+eurekaserverteste/eurekaserverteste.iml
+customers/mvnw.cmd
+customers/mvnw
+customers/.mvn/wrapper/maven-wrapper.properties
+customers/.mvn/wrapper/maven-wrapper.jar
+customers/.mvn/wrapper/MavenWrapperDownloader.java
