@@ -8,7 +8,7 @@ Spring Cloud Zuul integrado com Eureka e Serviços Rest Customers e Products se 
   </li>
      
   
-  <li>Abrir o modulo <b>zuulserver</b> e dar start :  <br>
+  <li>Abrir o modulo <b>zuulserver</b> e dar start : (Somente JDK 8)  <br>
     URL  de acesso : <a href="http://localhost:8111">http://localhost:8111</a>    
   </li>
 
